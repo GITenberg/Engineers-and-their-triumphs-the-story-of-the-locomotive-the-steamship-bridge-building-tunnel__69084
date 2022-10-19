@@ -1,0 +1,30 @@
+_repo: Engineers-and-their-triumphs-the-story-of-the-locomotive-the-steamship-bridge-building-tunnel__69084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, F. M. (Frederic Morell)
+    alias: Holmes, Frederic Morell
+    birthdate: 1851
+    gutenberg_agent_id: '32132'
+    url: http://www.gutenberg.org/2009/agents/32132
+description: ''
+gutenberg_issued: '2022-10-02'
+identifiers:
+  gutenberg: '69084'
+language: en
+pgterms:marc904: https://archive.org/details/engineerstheirtr00holmrich/
+pgterms:marc905: 20220601020257holmes
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Fleming H. Revell Company,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Engineers and their triumphs: the story of the locomotive, the steamship,
+  bridge building, tunnel making'
+url: http://www.gutenberg.org/ebooks/69084
