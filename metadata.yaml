@@ -1,5 +1,8 @@
 _repo: Engineers-and-their-triumphs-the-story-of-the-locomotive-the-steamship-bridge-building-tunnel__69084
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69084-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, F. M. (Frederic Morell)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '32132'
     url: http://www.gutenberg.org/2009/agents/32132
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69084#Engineers-and-their-triumphs-the-story-of-the-locomotive-the-steamship-bridge-building-tunnel_
 gutenberg_issued: '2022-10-02'
 identifiers:
   gutenberg: '69084'
